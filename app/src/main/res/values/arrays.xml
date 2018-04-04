@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fit_titles">
+        <item>性别</item>
+        <item>年龄</item>
+        <item>薪资(日新)</item>
+    </string-array>
+
+    <string-array name="fit_sex_tabs">
+        <item>不限</item>
+        <item>女</item>
+        <item>男</item>
+    </string-array>
+
+    <string-array name="fit_age_tabs">
+        <item>不限</item>
+        <item>18-22岁</item>
+        <item>23-30岁</item>
+        <item>31-35岁</item>
+        <item>36-50岁</item>
+        <item>50以上</item>
+    </string-array>
+
+    <string-array name="fit_money_tabs">
+        <item>不限</item>
+        <item>80元以下</item>
+        <item>80-120元</item>
+        <item>120-200元</item>
+        <item>200-500元</item>
+        <item>500-800元</item>
+        <item>800元以上</item>
+    </string-array>
+</resources>
